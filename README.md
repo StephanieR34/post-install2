@@ -17,6 +17,7 @@ sudo apt-get install --yes git git-extras python3-pip
 
 sudo snap install discord 
 
+#Le format snap vise à permettre l'installation de nouvelles versions de logiciels dans les systèmes Linux, tout en apportant aux développeurs la facilité de distribution, la fiabilité et la sécurité. Un paquet snap contrairement aux paquets rpm ou deb, pourra s'installer sur différentes distributions.
 #on installe discord 
 sudo snap install code --classic
 #on instale visual studio code
