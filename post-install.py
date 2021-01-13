@@ -1,19 +1,17 @@
 import os
 
-os.system("echo 'UBUNTU POST-INSTALL SCRIPT'"
-+"echo 'lol'")
+os.system("echo 'UBUNTU POST-INSTALL SCRIPT'")
 
-#echo "Updating APT..."
+os.system("echo "Updating APT...")
 
-#sudo apt-get update 
+oc.system("sudo apt-get update")
 
-#echo "Installing base packages"
+oc.system("echo "Installing base packages")
 
-#sudo apt-get install --yes git git-extras python3-pip 
+oc.system("sudo apt-get install --yes git git-extras python3-pip)
 # ici on installe git avec les supplementation git-extras et pip 
-#sudo snap install discord 
+oc.system("sudo snap install discord")
 #on installe discord 
-#sudo snap install code --classic
+oc.system("sudo snap install code --classic")
 #on instale vsc 
 
-#clear)
